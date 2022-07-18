@@ -1,0 +1,8 @@
+{
+  "name": "Parcel Box",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3374cce4"
+}

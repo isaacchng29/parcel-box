@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Parcel Box",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
